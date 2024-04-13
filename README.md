@@ -12,9 +12,9 @@ The Jupyter Notebook performs the following tasks:
 - Analyizes temperature measurements for hte most recent year of data for the weather station that contained the most data
 - Provides min, max, and average temps
 - Plots a histogram of temperatures
-![Precipitation over time](Resources/Precipitation.png)
+![Precipitation over time](SurfsUp/Resources/Precipitation.png)
 
-![Temperature Histogram](Resources/Temp_Hist.png)
+![Temperature Histogram](SurfsUp/Resources/Temp_Hist.png)
 
 ## app.py
 The Python file cintains a Flask microsite that can be used as an API to collect portions of hte dataset It contains paths for:
