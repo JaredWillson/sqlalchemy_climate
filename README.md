@@ -30,3 +30,6 @@ The Python file cintains a Flask microsite that can be used as an API to collect
 
 ## Date format
 Note that for the last two API's, the expected date format is 'YYYY-MM-DD'. If specifying both start end end dates, the start and end dates should be separated with a forwards slash ('/').
+
+### Note
+StackOverflow was used for references purposes and problem solving as well as the course materials, but all code is mine.
